@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>your phone is in my fuckin control hahah</string>
+		</dict>
+		<key>HasRemovalPasscode</key>
+		<true />
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Profile Removal</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.profileRemovalPassword.ee75291a-77b0-4a7b-9aa4-2de89a84e323</string>
+				<key>PayloadType</key>
+				<string>com.apple.profileRemovalPassword</string>
+				<key>PayloadUUID</key>
+				<string>ee75291a-77b0-4a7b-9aa4-2de89a84e323</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>RemovalPassword</key>
+				<string>139393</string>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Restrictions #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.9d730b11-4a3d-4903-8f15-427176a6f20b</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>9d730b11-4a3d-4903-8f15-427176a6f20b</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>floppy iphone</string>
+		<key>PayloadIdentifier</key>
+		<string>ARSAMGAMINGPC.8a230618-4b73-4484-a6ce-fbf912d21ff3</string>
+		<key>PayloadOrganization</key>
+		<string>Makaman Ltd.</string>
+		<key>PayloadRemovalDisallowed</key>
+		<true />
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>8a230618-4b73-4484-a6ce-fbf912d21ff3</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>1</integer>
+	</dict>
+</plist>
